@@ -1,0 +1,178 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    width: 1300px;
+    margin: 0px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+#menu-top {
+    background-color: #485460;
+    height: 30px;
+}
+
+#menu-top ul li {
+    list-style: none;
+    float: left;
+}
+
+#menu-top ul li a {
+    text-decoration: none;
+    display: block;
+    color: whitesmoke;
+    line-height: 30px;
+    padding: 0px 10px 0 10px;
+}
+
+#menu-top input {
+    width: 200px;
+    height: 25px;
+    border-radius: 10px;
+}
+
+#slide {
+    width: 1300px;
+    height: auto;
+}
+
+.chuyen-slyde img {
+    width: 1300px;
+    height: 450px;
+    border-radius: 20px 0 20px 0;
+}
+
+#main #left {
+    width: 250px;
+    float: left;
+}
+
+#main #left h1 {
+    background-color: #485460;
+}
+
+#main #left ul {
+    background-color: #d2dae2;
+    list-style-type: none;
+}
+
+#main #left ul li {
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px solid whitesmoke;
+    border-right: 1px solid whitesmoke;
+    padding: 0 1em;
+}
+
+#main #left ul li a {
+    display: block;
+    text-decoration: none;
+    color: #000;
+}
+
+#main #left ul li:hover {
+    background-color: aqua;
+}
+
+#main #left .ae-sop img {
+    width: 170px;
+    height: 170px;
+    margin: 0 35px;
+}
+
+audio {
+    width: 250px;
+}
+
+#main #right {
+    width: 1050px;
+    background-color: #d2dae2;
+    float: left;
+    height: auto;
+}
+
+#main #right .menu-right .why h1 {
+    margin-top: 10px;
+}
+
+.menu-right .why h2 {
+    text-align: center;
+}
+
+.menu-right .why img {
+    float: right;
+}
+
+.menu-right .why p {
+    margin: 15px 0px 0px 15px;
+}
+
+#main #right .menu-right .why .why-left {
+    width: 320px;
+    height: 300px;
+    float: left;
+}
+
+.why-left .left1 {
+    height: 150px;
+}
+
+#main #right .menu-right .why .center {
+    width: 320px;
+    float: left;
+}
+
+.why .center img {
+    width: 280px;
+    height: auto;
+    text-align: center;
+}
+
+#main #right .menu-right .why .why-right {
+    width: 320px;
+    height: 300px;
+    float: left;
+}
+
+.why-right .right1 {
+    height: 150px;
+}
+
+#main #right .class-list {
+    height: 500px;
+    clear: left;
+}
+
+#main #right .class-list .list {
+    float: left;
+    margin: 0px 10px 0px 15px;
+}
+
+#main #right .class-list .list img {
+    width: 220px;
+    height: 200px;
+}
+
+#main #right .content .video iframe {
+    width: 500px;
+    height: 330px;
+    float: left;
+    margin: 0 15px 0 15px;
+}
+
+#main #right .content p {
+    float: left;
+    margin: 50px 0 0 220px;
+}
+
+#main #right .content .image img {
+    width: 300px;
+    margin: 2px 0 0 66px;
+}
